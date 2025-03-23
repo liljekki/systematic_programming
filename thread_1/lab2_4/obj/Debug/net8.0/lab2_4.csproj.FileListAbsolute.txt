@@ -1,0 +1,14 @@
+C:\programme\Thread25\thread_1\lab2_4\bin\Debug\net8.0\lab2_4.exe
+C:\programme\Thread25\thread_1\lab2_4\bin\Debug\net8.0\lab2_4.deps.json
+C:\programme\Thread25\thread_1\lab2_4\bin\Debug\net8.0\lab2_4.runtimeconfig.json
+C:\programme\Thread25\thread_1\lab2_4\bin\Debug\net8.0\lab2_4.dll
+C:\programme\Thread25\thread_1\lab2_4\bin\Debug\net8.0\lab2_4.pdb
+C:\programme\Thread25\thread_1\lab2_4\obj\Debug\net8.0\lab2_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\programme\Thread25\thread_1\lab2_4\obj\Debug\net8.0\lab2_4.AssemblyInfoInputs.cache
+C:\programme\Thread25\thread_1\lab2_4\obj\Debug\net8.0\lab2_4.AssemblyInfo.cs
+C:\programme\Thread25\thread_1\lab2_4\obj\Debug\net8.0\lab2_4.csproj.CoreCompileInputs.cache
+C:\programme\Thread25\thread_1\lab2_4\obj\Debug\net8.0\lab2_4.dll
+C:\programme\Thread25\thread_1\lab2_4\obj\Debug\net8.0\refint\lab2_4.dll
+C:\programme\Thread25\thread_1\lab2_4\obj\Debug\net8.0\lab2_4.pdb
+C:\programme\Thread25\thread_1\lab2_4\obj\Debug\net8.0\lab2_4.genruntimeconfig.cache
+C:\programme\Thread25\thread_1\lab2_4\obj\Debug\net8.0\ref\lab2_4.dll
