@@ -1,0 +1,10 @@
+C:\programme\Thread25\thread_1\lab4_test\bin\Debug\lab4_test.exe.config
+C:\programme\Thread25\thread_1\lab4_test\bin\Debug\lab4_test.exe
+C:\programme\Thread25\thread_1\lab4_test\bin\Debug\lab4_test.pdb
+C:\programme\Thread25\thread_1\lab4_test\obj\Debug\lab4_test.csproj.AssemblyReference.cache
+C:\programme\Thread25\thread_1\lab4_test\obj\Debug\AsyncWinForms.Form1.resources
+C:\programme\Thread25\thread_1\lab4_test\obj\Debug\lab4_test.Properties.Resources.resources
+C:\programme\Thread25\thread_1\lab4_test\obj\Debug\lab4_test.csproj.GenerateResource.cache
+C:\programme\Thread25\thread_1\lab4_test\obj\Debug\lab4_test.csproj.CoreCompileInputs.cache
+C:\programme\Thread25\thread_1\lab4_test\obj\Debug\lab4_test.exe
+C:\programme\Thread25\thread_1\lab4_test\obj\Debug\lab4_test.pdb

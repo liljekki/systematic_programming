@@ -1,0 +1,17 @@
+C:\programme\Thread25\thread_1\lab5\bin\Debug\net9.0-windows\lab5.exe
+C:\programme\Thread25\thread_1\lab5\bin\Debug\net9.0-windows\lab5.deps.json
+C:\programme\Thread25\thread_1\lab5\bin\Debug\net9.0-windows\lab5.runtimeconfig.json
+C:\programme\Thread25\thread_1\lab5\bin\Debug\net9.0-windows\lab5.dll
+C:\programme\Thread25\thread_1\lab5\bin\Debug\net9.0-windows\lab5.pdb
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\lab5.csproj.GenerateResource.cache
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\lab5.AssemblyInfoInputs.cache
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\lab5.AssemblyInfo.cs
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\lab5.csproj.CoreCompileInputs.cache
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\lab5.sourcelink.json
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\lab5.dll
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\refint\lab5.dll
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\lab5.pdb
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\lab5.genruntimeconfig.cache
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\ref\lab5.dll
+C:\programme\Thread25\thread_1\lab5\obj\Debug\net9.0-windows\lab5.MainForm.resources
