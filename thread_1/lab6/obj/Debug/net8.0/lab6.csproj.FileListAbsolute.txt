@@ -1,0 +1,15 @@
+C:\programme\Thread25\thread_1\lab6\bin\Debug\net8.0\lab6.exe
+C:\programme\Thread25\thread_1\lab6\bin\Debug\net8.0\lab6.deps.json
+C:\programme\Thread25\thread_1\lab6\bin\Debug\net8.0\lab6.runtimeconfig.json
+C:\programme\Thread25\thread_1\lab6\bin\Debug\net8.0\lab6.dll
+C:\programme\Thread25\thread_1\lab6\bin\Debug\net8.0\lab6.pdb
+C:\programme\Thread25\thread_1\lab6\obj\Debug\net8.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\programme\Thread25\thread_1\lab6\obj\Debug\net8.0\lab6.AssemblyInfoInputs.cache
+C:\programme\Thread25\thread_1\lab6\obj\Debug\net8.0\lab6.AssemblyInfo.cs
+C:\programme\Thread25\thread_1\lab6\obj\Debug\net8.0\lab6.csproj.CoreCompileInputs.cache
+C:\programme\Thread25\thread_1\lab6\obj\Debug\net8.0\lab6.sourcelink.json
+C:\programme\Thread25\thread_1\lab6\obj\Debug\net8.0\lab6.dll
+C:\programme\Thread25\thread_1\lab6\obj\Debug\net8.0\refint\lab6.dll
+C:\programme\Thread25\thread_1\lab6\obj\Debug\net8.0\lab6.pdb
+C:\programme\Thread25\thread_1\lab6\obj\Debug\net8.0\lab6.genruntimeconfig.cache
+C:\programme\Thread25\thread_1\lab6\obj\Debug\net8.0\ref\lab6.dll
